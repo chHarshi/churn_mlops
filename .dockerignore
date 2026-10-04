@@ -1,0 +1,13 @@
+# .dockerignore
+venv/
+.venv/
+__pycache__/
+*.pyc
+mlruns/
+mlflow.db
+data/
+notebooks/
+tests/
+.git/
+.pytest_cache/
+*.egg-info/
